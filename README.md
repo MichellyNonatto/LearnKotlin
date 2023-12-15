@@ -16,20 +16,18 @@
     * **Concisão e Expressividade:**
         O Kotlin foi projetado visando concisão e expressividade. Essa característica resulta em menos código e maior legibilidade, promovendo uma experiência mais eficiente e intuitiva no desenvolvimento.
 
-## Aprendizados
-
-O que você aprendeu construindo esse projeto? Quais desafios você enfrentou e como você superou-os?
-
-
 ## Feedback
 
-Se você tiver algum feedback, por favor nos deixe saber por meio de fake@fake.com
+"Ao longo do período dedicado aos estudos, mantive um ritmo constante de aprendizado, sempre seguindo as orientações ministradas nas aulas e explorando a documentação relevante. Além disso, busquei enriquecer meu conhecimento por meio da interação com outros desenvolvedores em fóruns e grupos de estudos.
 
+Embora meu atual foco esteja direcionado à carreira de front-end web, reconheço que a aprendizagem é um processo contínuo e valioso. Cada experiência, seja ela obtida através de aulas, documentação ou colaboração com colegas, contribui para o meu crescimento profissional.
+
+Com essa base sólida de conhecimento adicional, sinto-me ainda mais preparada para trilhar uma carreira incrível na área de desenvolvimento. Estou empolgada com a perspectiva de construir um caminho profissional sólido e bem-sucedido."
 
 ## Demonstração
 
 Insira um gif ou um link de alguma demonstração
 
-![image](https://github.com/MichellyNonatto/Learn_Kotlin/assets/101263547/f0d9d288-b898-48e7-9d6c-65b99e483474)
+![logo bootcamp NTT + DIO](https://github.com/MichellyNonatto/Learn_Kotlin/assets/101263547/f0d9d288-b898-48e7-9d6c-65b99e483474)
 
 
